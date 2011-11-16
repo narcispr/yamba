@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, YambaActivity!</string>
+    <string name="app_name">Yamba</string>
+    <string name="titleStatus">Entre el nou estat</string>
+    <string name="hintText">Que penses?</string>
+    <string name="buttonUpdate">Actualitza</string>
+
+</resources>
