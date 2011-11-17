@@ -3,7 +3,7 @@
 
     <string name="hello">Hello World, YambaActivity!</string>
     <string name="app_name">Yamba</string>
-    <string name="titleStatus">Entre el nou estat</string>
+    <string name="titleStatus">Entra el nou estat</string>
     <string name="hintText">Que penses?</string>
     <string name="buttonUpdate">Actualitza</string>
 
